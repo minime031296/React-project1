@@ -1,0 +1,100 @@
+/*.main-one {
+    display: flex;
+    align-items: center;
+}
+
+.main-one img {
+    width: 90px; 
+    margin-left: 40px;
+    margin-bottom: 90px; 
+}
+
+.main-one button,
+.main-one input,
+.main-one select {
+    margin-right: 10px;
+    margin-bottom: 90px; 
+
+}
+
+.main-one button {
+    white-space: nowrap; 
+}
+
+.main-one p {
+    margin-left: 10px;
+    margin-bottom: 120px;
+    font-size: 11px;
+}
+
+.main-one button{
+    margin-left: 10px;
+}
+
+.main-one input {
+    width: 690px;
+    height: 40px;
+    margin-left: 5px;
+    border: 2px solid black;
+}
+
+.main-one select {
+    transform: translateX(-110%);
+    height: 42px;
+    width: 160px;
+}
+
+.main-one #btn2 {
+    margin-right: 170px;
+    background-color: #3665f3;
+    color: white;
+    width: 200px;
+    border-radius: 0px;
+}*/
+
+.main-one {
+    display: flex;
+    align-items: center;
+}
+
+.main-one img {
+    width: 90px; 
+    margin-right: 5px; /* Add margin-right for a little gap */
+}
+
+.main-one button,
+.main-one input,
+.main-one select {
+    margin-right: 5px; /* Add margin-right for a little gap */
+}
+
+.main-one input {
+    flex-grow: 1; /* Allow the input to grow to fill the remaining space */
+    height: 40px;
+    width: 800px; /* Set the width of the input */
+    border: 2px solid black;
+    padding-right: 490px;
+    margin-left: 20px;
+    padding-left: 60px;
+}
+
+.main-one select {
+    height: 42px;
+    width: 200px;
+    transform: translateX(-105%);
+    padding-left: 10px;
+}
+
+.main-one #btn2 {
+    margin-right: 10px; /* Add margin-right for a little gap */
+    background-color: #3665f3;
+    color: white;
+    width: 500px;
+    border-radius: 0px;
+    transform: translateX(-80%);
+}
+
+.main-one #adv {
+    transform: translateX(-90%);
+    font-size: 10px;
+}

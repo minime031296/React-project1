@@ -1,0 +1,43 @@
+.beat-box {
+    display: flex;
+
+}
+
+.I {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column; 
+    background-color: #f7f7f7;
+    border: none;
+    }
+
+.I-first {
+    border: 1px solid black;
+    height: 100px;
+    width: 330px;
+    border: none;
+}
+
+#secondly {
+    height: 100px;
+    font-size: xx-large;
+}
+
+#thirdly {
+    font-size: 25px;
+}
+
+.II {
+    border: 1px solid black;
+    height: 320px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+#img2 {
+    max-width: 100%; 
+    max-height: 100%; 
+}

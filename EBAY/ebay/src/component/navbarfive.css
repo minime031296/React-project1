@@ -1,0 +1,39 @@
+.main-five-one {
+        margin-right: 850px;
+        margin-top: 80px;
+    }
+
+.main-five-two {
+        margin-left: 2000px;
+    }
+
+.main-two {
+        display: flex;
+        justify-content: space-between;
+}
+
+.main-two-one {
+        border: 1px solid black;
+        border-radius: 50%;
+        width: 140px;
+        height: 140px;
+        border: none;
+}
+
+.main-two-one {
+    text-align: center;
+}
+
+.circle-img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+     
+}
+
+.content {
+    text-align: center; 
+    margin-top: 10px; 
+}

@@ -1,0 +1,61 @@
+#box {
+    border: 1px solid black;
+    height: 3000px;
+    width: 1210px;
+    top: 0px;
+    margin: 0px;
+    transform: translateY(-1.1%);
+    border: none;
+}
+
+.one {
+    border: 1px solid black;
+    height: 25px;
+    width: 100%; 
+    position: relative;
+    z-index: 9999;
+    top: 0px;
+    border: none;
+}
+.two {
+    border: 1px solid black;
+    height: 70px;
+    width: 100%;
+    border: none;
+}
+.three {
+    border: 1px solid black;
+    height: 25px;
+    width: 100%; 
+    border: none;
+}
+.four {
+    border: 1px solid black;
+    height: 290px;
+    width: 100%; 
+    border: none;
+}
+.five {
+    border: 1px solid black;
+    height: 320px;
+    width: 100%; 
+    border: none;
+}
+.six {
+    border: 1px solid black;
+    height: 520px;
+    width: 100%; 
+    border: none;
+}
+.seven {
+    border: 1px solid black;
+    height: 320px;
+    width: 100%; 
+    border: none;
+}
+.eight {
+    border: 1px solid black;
+    height: 420px;
+    width: 100%;
+    border: none; 
+}

@@ -1,0 +1,273 @@
+.footer {
+    border: 1px solid black;
+    height: 400px;
+    background-color: #f7f7f7;
+}
+
+.footer-div {
+    border: 1px solid black;
+    height: 400px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    justify-content: space-around;
+}
+
+.footerDiv-divOne {
+    border: 1px solid black;
+    height: 300px;
+    width: 200px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+   
+
+    p{
+        border: 1px solid black;
+        height: 15px;
+        width: 50px;
+        font-size: 12px;
+        margin-left: 30px;
+        margin-bottom: -10px;
+    }
+
+    ul{
+        border: 1px solid black;
+        height: 80px;
+        width: 100%px;
+
+        li {
+            list-style-type: none;
+            text-align: left;
+            font-size: 12px;
+            
+            a {
+                color: grey
+            }
+        }
+        
+    }
+}
+
+.footerDiv-divTwo {
+    border: 1px solid black;
+    height: 300px;
+    margin-top: 50px;
+    width: 150px;
+
+    .footer-Two-div-one {
+        p{
+            border: 1px solid black;
+            height: 15px;
+            width: 50px;
+            font-size: 12px;
+            margin-left: 30px;
+            margin-bottom: -10px;
+        }
+    
+        ul{
+            border: 1px solid black;
+            height: 90px;
+            width: 100%;
+            font-size: 12px;
+            li {
+                list-style-type: none;
+                text-align: left;
+                font-size: 12px;
+                
+                a {
+                    color: grey
+                }
+            }
+        }
+    }
+    .footer-Two-div-two {
+        p{
+            border: 1px solid black;
+            height: 15px;
+            width: 100px;
+            font-size: 12px;
+            margin-left: 30px;
+            margin-bottom: -10px;
+        }
+    
+        ul{
+            border: 1px solid black;
+            height: 60px;
+            width: 100px;
+            li {
+                list-style-type: none;
+                text-align: left;
+                font-size: 12px;
+                
+                a {
+                    color: grey
+                }
+            }
+        }
+    }
+   
+}
+
+.footerDiv-divThree{
+    border: 1px solid black;
+    height: 300px;
+    margin-top: 50px;
+    width: 150px;
+    .footer-Three-div-one{
+            p{
+                border: 1px solid black;
+                height: 15px;
+                width: 100px;
+                font-size: 12px;
+                margin-left: 30px;
+                margin-bottom: -10px;
+
+                }
+            ul{
+                border: 1px solid black;
+                height: 60px;
+                width: 100px;
+                li {
+                    list-style-type: none;
+                    text-align: left;
+                    font-size: 12px;
+                        
+                    a {
+                            color: grey;
+                            display: flex;
+
+                            .icons {
+                                font-size: 20px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+.footerDiv-divFour {
+    border: 1px solid black;
+    height: 300px;
+    margin-top: 50px;
+    width: 200px;
+    p{
+        border: 1px solid black;
+        height: 15px;
+        width: 100px;
+        font-size: 12px;
+        margin-bottom: -10px;
+        margin-left:30px;
+        }
+    ul{
+        border: 1px solid black;
+        height: 110px;
+        width: 100%;
+        
+        li {
+            list-style-type: none;
+            text-align: left;
+            font-size: 11px;
+            letter-spacing: 0px;
+            a {
+                    color: grey;
+                    display: flex;
+
+                }
+            }
+        }
+    }
+
+.footerDiv-divFive {
+    border: 1px solid black;
+    height: 300px;
+    margin-top: 50px;
+    width: 150px;
+    .footer-Five-div-one { 
+        p{
+            border: 1px solid black;
+            height: 15px;
+            width: 100px;
+            font-size: 12px;
+            margin-bottom: -10px;
+            margin-left:30px;
+            }
+        ul{
+            border: 1px solid black;
+            height: 80px;
+            width: 100%;
+            
+            li {
+                list-style-type: none;
+                text-align: left;
+                font-size: 11px;
+                letter-spacing: 0px;
+                a {
+                        color: grey;
+                        display: flex;
+    
+                       
+                    }
+                }
+            }
+    }
+    .footer-Five-div-two {
+        p{
+            border: 1px solid black;
+            height: 15px;
+            width: 100px;
+            font-size: 12px;
+            margin-bottom: -10px;
+            margin-left:30px;
+            }
+        ul{
+            border: 1px solid black;
+            height: 90px;
+            width: 100%;
+            
+            li {
+                list-style-type: none;
+                text-align: left;
+                font-size: 11px;
+                letter-spacing: 0px;
+                a {
+                        color: grey;
+                        display: flex;
+    
+                       
+                    }
+                }
+            }
+        }
+    .footer-Five-div-three {
+        p{
+            border: 1px solid black;
+            height: 15px;
+            width: 100px;
+            font-size: 12px;
+            margin-bottom: -10px;
+            margin-left:30px;
+            }
+        ul{
+            border: 1px solid black;
+            height: 110px;
+            width: 100%;
+            
+            li {
+                list-style-type: none;
+                text-align: left;
+                font-size: 11px;
+                letter-spacing: 0px;
+                a {
+                        color: grey;
+                        display: flex;
+    
+                       
+                    }
+                }
+            }
+        }
+    }
+
+
+
+

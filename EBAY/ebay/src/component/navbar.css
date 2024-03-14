@@ -1,11 +1,13 @@
 #box {
     border: 1px solid black;
     height: 3000px;
-    width: 1210px;
+    width: 78rem;
     top: 0px;
-    margin: 0px;
-    transform: translateY(-1.1%);
-    border: none;
+    margin: 0px ;
+    
+    padding: 0px ;
+    transform: translateY(-0.9%);
+    
 }
 
 .one {

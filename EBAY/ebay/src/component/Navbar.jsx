@@ -10,6 +10,7 @@ import NavbarFour from "./navbarfour";
 import NavbarFive from "./navbarfive";
 import NavbarSix from "./navbarsix";
 import NavbarSeven from "./navbarseven";
+import NavbarEight from "./navbareight";
 
 
 function Navbar() {
@@ -25,7 +26,7 @@ function Navbar() {
         <div className="five"><NavbarFive/></div>
         <div className="six"><NavbarSix/></div>
         <div className="seven"><NavbarSeven/></div>
-        <div className="eight"></div>
+        <div className="eight"><NavbarEight/></div>
         </div>
         </>
       
